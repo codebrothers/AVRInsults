@@ -32,3 +32,4 @@
 *.dSYM/
 *.su
 AVRInsults/Debug/
+*.atsuo
