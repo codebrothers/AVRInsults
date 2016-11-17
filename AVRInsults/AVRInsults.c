@@ -1,8 +1,10 @@
 
 #include "IO.h"
+#include "InsultData.h"
 #include <stdio.h>
+#include <avr/pgmspace.h>
 
-char* resolveToken( char* token);
+void readToken(char target[], int index);
 
 int main (void)
 {
@@ -10,11 +12,15 @@ int main (void)
 
 	while(1)
 	{	
-		printf("You idiot\n"); // Starting simple: the first insult, issued repeatedly.
+		// Retrieve a token string from program space and print it
+		
+		char aToken[100];
+		readToken(aToken,2);
+		printf("%s\n", aToken);
 	}
 }
 
-char* resolveToken( char* token)
+void readToken(char target[], int index)
 {
-	return NULL;
+	strcpy_P(target, (PGM_P)pgm_read_word(&(tokenNames[index])));
 }
