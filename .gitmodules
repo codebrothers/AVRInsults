@@ -1,3 +1,6 @@
 [submodule "Dependencies/Talkie"]
 	path = Dependencies/Talkie
 	url = https://github.com/codebrothers/Talkie.git
+[submodule "Dependencies/SAM"]
+	path = Dependencies/SAM
+	url = https://github.com/codebrothers/SAM.git
