@@ -1,0 +1,3 @@
+[submodule "Dependencies/Talkie"]
+	path = Dependencies/Talkie
+	url = https://github.com/codebrothers/Talkie.git
