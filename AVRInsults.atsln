@@ -1,7 +1,13 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AVRInsults", "AVRInsults\AVRInsults.cproj", "{EEBBC9EF-1CA9-40F8-9CF7-8CD59DCF1880}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Talkie", "Dependencies\Talkie\Talkie\Talkie.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{0F94EA10-D743-4B08-A2C8-9552EA36A2D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,8 +19,15 @@ Global
 		{EEBBC9EF-1CA9-40F8-9CF7-8CD59DCF1880}.Debug|AVR.Build.0 = Debug|AVR
 		{EEBBC9EF-1CA9-40F8-9CF7-8CD59DCF1880}.Release|AVR.ActiveCfg = Release|AVR
 		{EEBBC9EF-1CA9-40F8-9CF7-8CD59DCF1880}.Release|AVR.Build.0 = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|AVR.Build.0 = Debug|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.ActiveCfg = Release|AVR
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897} = {0F94EA10-D743-4B08-A2C8-9552EA36A2D4}
 	EndGlobalSection
 EndGlobal
