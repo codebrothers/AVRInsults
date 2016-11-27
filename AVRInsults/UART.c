@@ -1,9 +1,3 @@
-/*
- * CFile1.c
- *
- * Created: 16/11/2016 9:58:22 PM
- *  Author: Chris
- */ 
 
 #include "IO.h"
 #include <util/setbaud.h>
@@ -43,16 +37,4 @@ char uart_getchar(FILE *stream)
 {
 	while ((UCSR0A & (1 << RXC0)) == 0) {};
 	return UDR0;
-}
-
-void setLED(int on)
-{
-	if(on>0)
-	{
-		PORTB |= 1 << PORTB0;
-	}
-	else
-	{
-		PORTB &= ~( 1 << PORTB0 );
-	}
 }

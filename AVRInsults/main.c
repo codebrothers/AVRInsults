@@ -1,14 +1,17 @@
 
-#include "IO.h"
-#include "InsultData.h"
 #include <stdio.h>
 #include <avr/pgmspace.h>
 #include <talkie.h>
+
+#include "IO.h"
+#include "PWMAudio.h"
 
 void readToken(char target[], int index);
 
 int main (void)
 {
+	initPwmAudio();
+
 	initStdInOutUart();
 
 	char** strings;
@@ -66,5 +69,5 @@ int main (void)
 
 void readToken(char target[], int index)
 {
-	strcpy_P(target, (PGM_P)pgm_read_word(&(tokenNames[index])));
+	//strcpy_P(target, (PGM_P)pgm_read_word(&(tokenNames[index])));
 }
