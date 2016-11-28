@@ -1,4 +1,7 @@
 
+#include <stdint.h>
+#include <stddef.h>
+
 #ifndef DATAACCESS_H_
 #define DATAACCESS_H_
 

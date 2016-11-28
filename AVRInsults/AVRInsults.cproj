@@ -140,6 +140,12 @@
     </ToolchainSettings>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="CircularBuffer.c">
+      <SubType>compile</SubType>
+    </Compile>
+    <Compile Include="CircularBuffer.h">
+      <SubType>compile</SubType>
+    </Compile>
     <Compile Include="DataAccess.c">
       <SubType>compile</SubType>
     </Compile>
@@ -173,13 +179,6 @@
     <Compile Include="SAMAVR.h">
       <SubType>compile</SubType>
     </Compile>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Dependencies\Talkie\Talkie\Talkie.cproj">
-      <Name>Talkie</Name>
-      <Project>{dce6c7e3-ee26-4d79-826b-08594b9ad897}</Project>
-      <Private>True</Private>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(AVRSTUDIO_EXE_PATH)\\Vs\\Compiler.targets" />
 </Project>

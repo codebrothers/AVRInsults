@@ -1,4 +1,5 @@
 
+#include "DataAccess.h"
 
 #if EXT_MEM == EXT_MEM_PGMSPACE
 
@@ -9,12 +10,12 @@ void memcpy_E( ADDRESS_E src, char* dst, size_t size )
 
 ADDRESS_E ext_read_address( ADDRESS_E address )
 {
-
+	return NULL;
 }
 
 char ext_read_byte( ADDRESS_E address )
 {
-
+	return NULL;
 }
 
 #elif EXT_MEM == EXT_MEM_SPIEEPROM

@@ -3,7 +3,7 @@
 #include <avr/pgmspace.h>
 #include <talkie.h>
 
-#include "IO.h"
+#include "UART.h"
 #include "PWMAudio.h"
 
 void readToken(char target[], int index);
@@ -14,12 +14,13 @@ int main (void)
 
 	initStdInOutUart();
 
+	/*
 	char** strings;
 	int stringIndex = 0;
 	strings[0] = "%root%";
 	const char tokenDelimeter='%';
 	int searchOffset = 0;
-
+	*/
 	while(1)
 	{	
 		// Retrieve a token string from program space and print it

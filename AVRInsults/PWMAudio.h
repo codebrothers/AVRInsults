@@ -13,6 +13,4 @@ void initPwmAudio(void);
 
 void playBuffer( char* buffer );
 
-}
-
 #endif /* PWMAUDIO_H_ */

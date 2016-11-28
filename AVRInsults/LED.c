@@ -1,13 +1,16 @@
 
+#include <avr/sfr_defs.h>
+#include <avr/io.h>
+
 void setLED(int on)
 {
 	if(on>0)
 	{
-		PORTB |= 1 << PORTB0;
+		PORTB |= _BV(PORTB0);
 	}
 	else
 	{
-		PORTB &= ~( 1 << PORTB0 );
+		PORTB &= ~_BV(PORTB0);
 	}
 }
 

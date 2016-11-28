@@ -5,21 +5,21 @@
  *  Author: Chris
  */ 
 
-#ifndef IO_H_
-#define IO_H_
-
 #include <stdio.h>
 #include <stdint.h>
 #include <stddef.h>
 
-#ifndef SAMAVR_H_
-#define SAMAVR_H_
+#ifndef UART_H_
+#define UART_H_
 
+#ifndef F_CPU
 #define F_CPU 8000000UL
+#endif /* F_CPU */
+
 #define BAUD 38400
 #define BAUD_PRESCALE (((F_CPU / (BAUD * 16UL))) - 1)
 
 void initStdInOutUart();	// Maps the C-library standard Input/Output streams to the AVR's UART, currently 'wait' and not interupt-based.
 
-#endif /* SAMAVR_H_ */
+#endif /* UART_H_ */
 
