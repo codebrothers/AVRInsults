@@ -20,14 +20,14 @@
 	return buffer;
  }
 
- inline bool circularBuffer_hasBytes( CircularBuffer* buffer )
+ inline bool circularBuffer_isEmpty( CircularBuffer* buffer )
  {
-	return (buffer->writeOffset != buffer->readOffset) || (buffer->isFull);
+	return (buffer->writeOffset == buffer->readOffset) && !(buffer->isFull);
  }
 
  bool circularBuffer_readByte( CircularBuffer* buffer, uint8_t* byteOut )
  {
-	if( !circularBuffer_hasBytes( buffer ) ) return false;
+	if( circularBuffer_isEmpty( buffer ) ) return false;
 	
 	*byteOut = (buffer->bytes)[buffer->readOffset];
 	++(buffer->readOffset);
