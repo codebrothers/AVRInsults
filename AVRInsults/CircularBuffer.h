@@ -25,13 +25,8 @@
  CircularBuffer* circularBuffer_create( uint16_t byteCount );
 
  bool circularBuffer_writeByte( CircularBuffer *buffer, uint8_t byte );
-
  bool circularBuffer_hasBytes( CircularBuffer *buffer );
-
  bool circularBuffer_readByte( CircularBuffer *buffer, uint8_t *byteOut );
-
  void circularBuffer_destroy( CircularBuffer *buffer );
-
-
 
 #endif /* CIRCULARBUFFER_H_ */

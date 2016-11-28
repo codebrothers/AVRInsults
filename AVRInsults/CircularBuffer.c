@@ -16,6 +16,7 @@
 	buffer->size = byteCount;
 	buffer->writeOffset = 0;
 	buffer->readOffset = 0;
+	buffer->isFull = false;
 	return buffer;
  }
 
