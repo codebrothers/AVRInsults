@@ -23,9 +23,14 @@ volatile uint16_t sample;
 int sampleRepeatCount;
 int pcm_length;
 
+CircularBuffer *_sampleBuffer;
+uint8_t _readSample;
+
 /* initialise the PWM */
-void initPwmAudio(void)
+void initPwmAudio( CircularBuffer *sampleBuffer )
 {
+	_sampleBuffer = sampleBuffer;
+
     DDRB = _BV(PB1); // Set up PORTB.1 (aka OC1A) pin as output
 
 	/* Set-up Timer 1 (PWM) */
@@ -49,18 +54,14 @@ void initPwmAudio(void)
     sei(); //Enable interrupts
 }
 
-void playBuffer( char* buffer )
-{
-	//TBC
-}
-
 ISR(TIMER0_OVF_vect)
 {
 	sampleRepeatCount--;
 	if (sampleRepeatCount == 0)
 	{
 		sampleRepeatCount = 4;
-		OCR1A = 0; //pgm_read_byte(&pcm_samples[sample++]);
+		bool success = circularBuffer_readByte(_sampleBuffer, &_readSample);
+		OCR1A = success ? _readSample : 0;
 		if(sample>pcm_length)sample=0;
 	}
 }

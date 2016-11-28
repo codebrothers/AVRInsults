@@ -5,14 +5,19 @@
 
 #include "UART.h"
 #include "PWMAudio.h"
+#include "CircularBuffer.h"
 
 void readToken(char target[], int index);
 
+CircularBuffer* outputSampleBuffer;
+
 int main (void)
 {
-	initPwmAudio();
-
 	initStdInOutUart();
+
+	outputSampleBuffer = circularBuffer_create( 256 );
+
+	initPwmAudio( outputSampleBuffer );
 
 	/*
 	char** strings;

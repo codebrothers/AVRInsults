@@ -5,12 +5,14 @@
  *  Author: Chris
  */ 
 
+ #include "CircularBuffer.h"
 
 #ifndef PWMAUDIO_H_
 #define PWMAUDIO_H_
 
-void initPwmAudio(void);
+/* Initializes the AVR hardware for PWM Audio output and starts polling the provided circular buffer for sample data. */
+void initPwmAudio( CircularBuffer* sampleBuffer );
 
-void playBuffer( char* buffer );
+// TODO: Add ability to start and stop the sample data polling, to save power when no sample data is being provided.
 
 #endif /* PWMAUDIO_H_ */
