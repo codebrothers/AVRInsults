@@ -32,6 +32,9 @@
  /* Returns true if the buffer is empty, false if the buffer holds some bytes. */
  bool circularBuffer_isEmpty( CircularBuffer *buffer );
 
+ /* Returns true if the buffer is full, false if the buffer has capacity remaining. */
+ bool circularBuffer_isFull( CircularBuffer* buffer );
+
  /* Reads a byte from the buffer to the specified location, byteOut. Returns true if the byte was read, false if there were no bytes to read (in this case byteOut is not modified). */
  bool circularBuffer_readByte( CircularBuffer *buffer, uint8_t *byteOut );
 

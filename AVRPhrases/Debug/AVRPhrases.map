@@ -1,0 +1,1458 @@
+Archive member included to satisfy reference by file (symbol)
+
+../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                              main.o (samOutputFunction)
+../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                              main.o (SetInput)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                              ../../Dependencies/SAM/Debug\libSAM.a(render.o) (__udivmodqi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              PhraseGenerator/PhraseData/PhraseDataAccess.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              PhraseGenerator/PhraseGenerator.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              IO/PWMAudio.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o)
+                              PhraseGenerator/PhraseGenerator.o (calloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                              Process/CircularBuffer.o (malloc)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+                              PhraseGenerator/PhraseData/PhraseDataAccess.o (rand)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+                              PhraseGenerator/PhraseData/PhraseDataAccess.o (memcpy_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcpy_P.o)
+                              PhraseGenerator/PhraseData/TokenPhrases.o (strcpy_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+                              PhraseGenerator/PhraseData/TokenPhrases.o (__strlen_P)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              Process/Strings.o (memcpy)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o) (memset)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              PhraseGenerator/PhraseData/PhraseDataAccess.o (strcmp)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                              IO/UART.o (__iob)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o) (__divmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o) (__muluhisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o) (__mulohisi3)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__udivmodsi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+_sampleBuffer       0x2               IO/PWMAudio.o
+samOutputFunction   0x2               ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+sampleRepeatCount   0x2               IO/PWMAudio.o
+_readSample         0x1               IO/PWMAudio.o
+pcm_length          0x2               IO/PWMAudio.o
+mem39               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+pitches             0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+A                   0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+mem44               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+input               0x100             ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+amplitude1          0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+Y                   0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+__brkval            0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+mem47               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+stress              0x100             ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+mem49               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+stressOutput        0x3c              ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+phonemeIndex        0x100             ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+mem50               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+amplitude3          0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+frequency2          0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+amplitude2          0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+sampledConsonantFlag
+                    0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+outBuffer           0x2               IO/UART.o
+outputSampleBuffer  0x2               main.o
+mem53               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+phonemeLength       0x100             ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+__flp               0x2               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+phonemeIndexOutput  0x3c              ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+__iob               0x6               c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+sample              0x2               IO/PWMAudio.o
+mem56               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+inBuffer            0x2               IO/UART.o
+phonemeLengthOutput
+                    0x3c              ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+mem51               0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+frequency1          0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+frequency3          0x30              ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+X                   0x1               ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseGenerator.o
+ .text          0x00000000        0x0 PhraseGenerator/PhraseGenerator.o
+ .data          0x00000000        0x0 PhraseGenerator/PhraseGenerator.o
+ .bss           0x00000000        0x0 PhraseGenerator/PhraseGenerator.o
+ .rodata.str1.1
+                0x00000000        0x9 PhraseGenerator/PhraseGenerator.o
+ .text.phraseGenerator_createPhrase
+                0x00000000      0x156 PhraseGenerator/PhraseGenerator.o
+ .data.tokenDelimeter
+                0x00000000        0x1 PhraseGenerator/PhraseGenerator.o
+ .debug_info    0x00000000      0x31a PhraseGenerator/PhraseGenerator.o
+ .debug_abbrev  0x00000000      0x138 PhraseGenerator/PhraseGenerator.o
+ .debug_loc     0x00000000      0x3b7 PhraseGenerator/PhraseGenerator.o
+ .debug_aranges
+                0x00000000       0x20 PhraseGenerator/PhraseGenerator.o
+ .debug_ranges  0x00000000       0x28 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x70 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000      0xa4e PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x22 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x16 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x97 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x16 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x1c PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x97 PhraseGenerator/PhraseGenerator.o
+ .debug_macro   0x00000000       0x5a PhraseGenerator/PhraseGenerator.o
+ .debug_line    0x00000000      0x266 PhraseGenerator/PhraseGenerator.o
+ .debug_str     0x00000000     0x3293 PhraseGenerator/PhraseGenerator.o
+ .comment       0x00000000       0x31 PhraseGenerator/PhraseGenerator.o
+ .debug_frame   0x00000000       0x84 PhraseGenerator/PhraseGenerator.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .text          0x00000000        0x0 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .data          0x00000000        0x0 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .bss           0x00000000        0x0 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .text.readTokenPhrases
+                0x00000000       0x10 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .text.phraseDataAccess_copyRandomTokenReplacement
+                0x00000000       0x98 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.tokenPhrasesList
+                0x00000000        0x5 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.tokenPhraseList_token_02
+                0x00000000        0x6 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.tokenPhraseList_token_01
+                0x00000000        0x7 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.phrases_derog
+                0x00000000        0x4 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.phrases_derog_02
+                0x00000000        0xb PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.phrases_derog_01
+                0x00000000        0x7 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.phrases_phrase
+                0x00000000        0x4 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.phrases_phrase_02
+                0x00000000        0xd PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .progmem.data.phrases_phrase_01
+                0x00000000       0x1c PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_info    0x00000000      0x50f PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_abbrev  0x00000000      0x20d PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_loc     0x00000000      0x19a PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_aranges
+                0x00000000       0x28 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_ranges  0x00000000       0x30 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0xf5 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000      0xa4e PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x10 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000      0x1c9 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000      0x2fc PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x89 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0xaa PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000     0x1410 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000      0x13a PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0xbd PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x34 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x18 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x6c PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0xee PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x22 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x16 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x20 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x1c PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x97 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_macro   0x00000000       0x5a PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_line    0x00000000      0x335 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_str     0x00000000     0x8189 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .comment       0x00000000       0x31 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .debug_frame   0x00000000       0x58 PhraseGenerator/PhraseData/PhraseDataAccess.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 PhraseGenerator/PhraseData/TokenPhrases.o
+ .text          0x00000000        0x0 PhraseGenerator/PhraseData/TokenPhrases.o
+ .data          0x00000000        0x0 PhraseGenerator/PhraseData/TokenPhrases.o
+ .bss           0x00000000        0x0 PhraseGenerator/PhraseData/TokenPhrases.o
+ .text.tokenPhrases_copyToken
+                0x00000000       0x4e PhraseGenerator/PhraseData/TokenPhrases.o
+ .text.tokenPhrases_getPhraseCount
+                0x00000000       0x20 PhraseGenerator/PhraseData/TokenPhrases.o
+ .text.tokenPhrases_copyPhraseAtIndex
+                0x00000000       0x46 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_info    0x00000000      0x348 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_abbrev  0x00000000      0x15f PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_loc     0x00000000      0x223 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_aranges
+                0x00000000       0x30 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_ranges  0x00000000       0x20 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0xb4 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000      0xa4e PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000      0x1c9 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x10 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000      0x302 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x89 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0xaa PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000     0x1410 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000      0x13a PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0xbd PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x34 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x18 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x6c PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0xee PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x1c PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x97 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_macro   0x00000000       0x5a PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_line    0x00000000      0x2eb PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_str     0x00000000     0x7e6c PhraseGenerator/PhraseData/TokenPhrases.o
+ .comment       0x00000000       0x31 PhraseGenerator/PhraseData/TokenPhrases.o
+ .debug_frame   0x00000000       0x94 PhraseGenerator/PhraseData/TokenPhrases.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .group         0x00000000        0x8 IO/LED.o
+ .text          0x00000000        0x0 IO/LED.o
+ .data          0x00000000        0x0 IO/LED.o
+ .bss           0x00000000        0x0 IO/LED.o
+ .text.led_set  0x00000000        0xe IO/LED.o
+ .debug_info    0x00000000       0x99 IO/LED.o
+ .debug_abbrev  0x00000000       0x63 IO/LED.o
+ .debug_aranges
+                0x00000000       0x20 IO/LED.o
+ .debug_ranges  0x00000000       0x10 IO/LED.o
+ .debug_macro   0x00000000       0x91 IO/LED.o
+ .debug_macro   0x00000000      0xa4e IO/LED.o
+ .debug_macro   0x00000000       0x10 IO/LED.o
+ .debug_macro   0x00000000      0x1c9 IO/LED.o
+ .debug_macro   0x00000000      0x2fc IO/LED.o
+ .debug_macro   0x00000000       0x9e IO/LED.o
+ .debug_macro   0x00000000     0x1410 IO/LED.o
+ .debug_macro   0x00000000      0x13a IO/LED.o
+ .debug_macro   0x00000000       0xbd IO/LED.o
+ .debug_macro   0x00000000       0x34 IO/LED.o
+ .debug_macro   0x00000000       0x18 IO/LED.o
+ .debug_macro   0x00000000       0x6c IO/LED.o
+ .debug_line    0x00000000      0x23d IO/LED.o
+ .debug_str     0x00000000     0x676e IO/LED.o
+ .comment       0x00000000       0x31 IO/LED.o
+ .debug_frame   0x00000000       0x24 IO/LED.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/PWMAudio.o
+ .text          0x00000000        0x0 IO/PWMAudio.o
+ .data          0x00000000        0x0 IO/PWMAudio.o
+ .bss           0x00000000        0x0 IO/PWMAudio.o
+ .debug_macro   0x00000000      0xa4e IO/PWMAudio.o
+ .debug_macro   0x00000000      0x1c9 IO/PWMAudio.o
+ .debug_macro   0x00000000       0x22 IO/PWMAudio.o
+ .debug_macro   0x00000000       0x10 IO/PWMAudio.o
+ .debug_macro   0x00000000      0x302 IO/PWMAudio.o
+ .debug_macro   0x00000000       0x9e IO/PWMAudio.o
+ .debug_macro   0x00000000     0x1410 IO/PWMAudio.o
+ .debug_macro   0x00000000      0x13a IO/PWMAudio.o
+ .debug_macro   0x00000000       0xbd IO/PWMAudio.o
+ .debug_macro   0x00000000       0x34 IO/PWMAudio.o
+ .debug_macro   0x00000000       0x18 IO/PWMAudio.o
+ .debug_macro   0x00000000       0x6c IO/PWMAudio.o
+ .debug_macro   0x00000000       0x10 IO/PWMAudio.o
+ .debug_macro   0x00000000       0x89 IO/PWMAudio.o
+ .debug_macro   0x00000000       0xee IO/PWMAudio.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .group         0x00000000        0x8 IO/UART.o
+ .text          0x00000000        0x0 IO/UART.o
+ .data          0x00000000        0x0 IO/UART.o
+ .bss           0x00000000        0x0 IO/UART.o
+ .text.uart_init
+                0x00000000       0x82 IO/UART.o
+ .text.uart_putchar
+                0x00000000       0x38 IO/UART.o
+ .text.uart_getchar
+                0x00000000       0x30 IO/UART.o
+ .debug_macro   0x00000000      0xa4e IO/UART.o
+ .debug_macro   0x00000000      0x1c9 IO/UART.o
+ .debug_macro   0x00000000      0x2fc IO/UART.o
+ .debug_macro   0x00000000       0x97 IO/UART.o
+ .debug_macro   0x00000000       0xaa IO/UART.o
+ .debug_macro   0x00000000     0x1410 IO/UART.o
+ .debug_macro   0x00000000      0x13a IO/UART.o
+ .debug_macro   0x00000000       0xbd IO/UART.o
+ .debug_macro   0x00000000       0x34 IO/UART.o
+ .debug_macro   0x00000000       0x18 IO/UART.o
+ .debug_macro   0x00000000       0x6c IO/UART.o
+ .debug_macro   0x00000000       0x69 IO/UART.o
+ .debug_macro   0x00000000       0x22 IO/UART.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .group         0x00000000        0x8 main.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .debug_macro   0x00000000      0xa4e main.o
+ .debug_macro   0x00000000      0x1c9 main.o
+ .debug_macro   0x00000000      0x2fc main.o
+ .debug_macro   0x00000000       0x58 main.o
+ .debug_macro   0x00000000       0x10 main.o
+ .debug_macro   0x00000000       0x97 main.o
+ .debug_macro   0x00000000       0xf2 main.o
+ .debug_macro   0x00000000       0x10 main.o
+ .debug_macro   0x00000000       0xaa main.o
+ .debug_macro   0x00000000     0x1410 main.o
+ .debug_macro   0x00000000      0x13a main.o
+ .debug_macro   0x00000000       0xbd main.o
+ .debug_macro   0x00000000       0x34 main.o
+ .debug_macro   0x00000000       0x18 main.o
+ .debug_macro   0x00000000       0x6c main.o
+ .debug_macro   0x00000000       0x22 main.o
+ .debug_macro   0x00000000       0x16 main.o
+ .debug_macro   0x00000000       0x20 main.o
+ .debug_macro   0x00000000       0xef main.o
+ .debug_macro   0x00000000       0x1c main.o
+ .group         0x00000000        0x8 Process/CircularBuffer.o
+ .group         0x00000000        0x8 Process/CircularBuffer.o
+ .group         0x00000000        0x8 Process/CircularBuffer.o
+ .group         0x00000000        0x8 Process/CircularBuffer.o
+ .group         0x00000000        0x8 Process/CircularBuffer.o
+ .group         0x00000000        0x8 Process/CircularBuffer.o
+ .text          0x00000000        0x0 Process/CircularBuffer.o
+ .data          0x00000000        0x0 Process/CircularBuffer.o
+ .bss           0x00000000        0x0 Process/CircularBuffer.o
+ .text.circularBuffer_isEmpty
+                0x00000000       0x20 Process/CircularBuffer.o
+ .text.circularBuffer_destroy
+                0x00000000       0x1a Process/CircularBuffer.o
+ .debug_macro   0x00000000      0xa4e Process/CircularBuffer.o
+ .debug_macro   0x00000000      0x1c9 Process/CircularBuffer.o
+ .debug_macro   0x00000000       0x22 Process/CircularBuffer.o
+ .debug_macro   0x00000000       0x1c Process/CircularBuffer.o
+ .group         0x00000000        0x8 Process/Range.o
+ .group         0x00000000        0x8 Process/Range.o
+ .text          0x00000000        0x0 Process/Range.o
+ .data          0x00000000        0x0 Process/Range.o
+ .bss           0x00000000        0x0 Process/Range.o
+ .text.range_isEqual
+                0x00000000       0x1a Process/Range.o
+ .text.range_isNotFound
+                0x00000000       0x1a Process/Range.o
+ .debug_info    0x00000000      0x126 Process/Range.o
+ .debug_abbrev  0x00000000       0xd6 Process/Range.o
+ .debug_aranges
+                0x00000000       0x28 Process/Range.o
+ .debug_ranges  0x00000000       0x18 Process/Range.o
+ .debug_macro   0x00000000       0x2a Process/Range.o
+ .debug_macro   0x00000000      0xa4e Process/Range.o
+ .debug_macro   0x00000000       0x22 Process/Range.o
+ .debug_line    0x00000000       0xfa Process/Range.o
+ .debug_str     0x00000000     0x2bcb Process/Range.o
+ .comment       0x00000000       0x31 Process/Range.o
+ .debug_frame   0x00000000       0x34 Process/Range.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .group         0x00000000        0x8 Process/Strings.o
+ .text          0x00000000        0x0 Process/Strings.o
+ .data          0x00000000        0x0 Process/Strings.o
+ .bss           0x00000000        0x0 Process/Strings.o
+ .text.strings_rangeCopy
+                0x00000000       0x1c Process/Strings.o
+ .text.strings_copyRange
+                0x00000000       0x62 Process/Strings.o
+ .text.strings_getRangeBetweenFirstDelimeterPair
+                0x00000000       0x5e Process/Strings.o
+ .debug_info    0x00000000      0x26c Process/Strings.o
+ .debug_abbrev  0x00000000      0x161 Process/Strings.o
+ .debug_loc     0x00000000      0x360 Process/Strings.o
+ .debug_aranges
+                0x00000000       0x30 Process/Strings.o
+ .debug_ranges  0x00000000       0x20 Process/Strings.o
+ .debug_macro   0x00000000       0x65 Process/Strings.o
+ .debug_macro   0x00000000      0xa4e Process/Strings.o
+ .debug_macro   0x00000000       0x22 Process/Strings.o
+ .debug_macro   0x00000000      0x166 Process/Strings.o
+ .debug_macro   0x00000000       0x16 Process/Strings.o
+ .debug_macro   0x00000000       0x35 Process/Strings.o
+ .debug_macro   0x00000000       0x16 Process/Strings.o
+ .debug_macro   0x00000000       0x1c Process/Strings.o
+ .debug_macro   0x00000000       0x5a Process/Strings.o
+ .debug_line    0x00000000      0x211 Process/Strings.o
+ .debug_str     0x00000000     0x32df Process/Strings.o
+ .comment       0x00000000       0x31 Process/Strings.o
+ .debug_frame   0x00000000       0x78 Process/Strings.o
+ .text          0x00000000        0x0 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .data          0x00000000        0x0 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .bss           0x00000000        0x0 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .data.wait2    0x00000000        0x1 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .data.wait1    0x00000000        0x1 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .text          0x00000000        0x0 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .data          0x00000000        0x0 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .bss           0x00000000        0x0 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.SetSpeed
+                0x00000000        0x6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.SetPitch
+                0x00000000        0x6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.SetMouth
+                0x00000000        0x6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.SetThroat
+                0x00000000        0x6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.EnableSingmode
+                0x00000000        0xe ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.GetBuffer
+                0x00000000        0x6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.GetBufferLength
+                0x00000000        0x6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text.Code47503
+                0x00000000       0x74 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .data          0x00000000        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .text.avr-libc
+                0x00000000       0xb8 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(rand.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcpy_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcpy_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcpy_P.o)
+ .text.avr-libc
+                0x00000000        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcpy_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strcmp.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ COMMON         0x00000000        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x2e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x00000000       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulshisi3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00000000       0x44 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x00000000       0x1e c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD PhraseGenerator/PhraseGenerator.o
+LOAD PhraseGenerator/PhraseData/PhraseDataAccess.o
+LOAD PhraseGenerator/PhraseData/TokenPhrases.o
+LOAD IO/LED.o
+LOAD IO/PWMAudio.o
+LOAD IO/UART.o
+LOAD main.o
+LOAD Process/CircularBuffer.o
+LOAD Process/Range.o
+LOAD Process/Strings.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD ../../Dependencies/SAM/Debug\libSAM.a
+END GROUP
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2994
+ *(.vectors)
+ .vectors       0x00000000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.sampleTable
+                0x00000068      0x500 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000068                sampleTable
+ .progmem.data.multtable
+                0x00000568      0x100 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000568                multtable
+ .progmem.data.rectangle
+                0x00000668      0x100 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000668                rectangle
+ .progmem.data.sinus
+                0x00000768      0x100 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000768                sinus
+ .progmem.data.ampl3data
+                0x00000868       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000868                ampl3data
+ .progmem.data.ampl2data
+                0x000008b8       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x000008b8                ampl2data
+ .progmem.data.ampl1data
+                0x00000908       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000908                ampl1data
+ .progmem.data.freq3data
+                0x00000958       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000958                freq3data
+ .progmem.data.sampledConsonantFlags
+                0x000009a8       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x000009a8                sampledConsonantFlags
+ .progmem.data.inBlendLength
+                0x000009f8       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x000009f8                inBlendLength
+ .progmem.data.outBlendLength
+                0x00000a48       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000a48                outBlendLength
+ .progmem.data.blendRank
+                0x00000a98       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000a98                blendRank
+ .progmem.data.amplitudeRescale
+                0x00000ae8       0x11 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000ae8                amplitudeRescale
+ .progmem.data.tab47492
+                0x00000af9        0xb ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000af9                tab47492
+ .progmem.data.tab48426
+                0x00000b04        0x5 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00000b04                tab48426
+ .progmem.data.phonemeLengthTable
+                0x00000b09       0x50 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000b09                phonemeLengthTable
+ .progmem.data.phonemeStressedLengthTable
+                0x00000b59       0x50 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000b59                phonemeStressedLengthTable
+ .progmem.data.flags2
+                0x00000ba9       0x4e ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000ba9                flags2
+ .progmem.data.flags
+                0x00000bf7       0x51 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000bf7                flags
+ .progmem.data.signInputTable2
+                0x00000c48       0x51 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000c48                signInputTable2
+ .progmem.data.signInputTable1
+                0x00000c99       0x51 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000c99                signInputTable1
+ .progmem.data.stressInputTable
+                0x00000cea        0x9 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00000cea                stressInputTable
+                0x00000cf4                . = ALIGN (0x2)
+ *fill*         0x00000cf3        0x1 
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000cf4                __ctors_start = .
+ *(.ctors)
+                0x00000cf4                __ctors_end = .
+                0x00000cf4                __dtors_start = .
+ *(.dtors)
+                0x00000cf4                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000cf4        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000cf4                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000cf4        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000d00       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x00000d00                __do_copy_data
+ .init4         0x00000d16       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x00000d16                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000d26        0x6 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000d2c        0x2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000d2c                __vector_22
+                0x00000d2c                __vector_1
+                0x00000d2c                __vector_24
+                0x00000d2c                __vector_12
+                0x00000d2c                __bad_interrupt
+                0x00000d2c                __vector_6
+                0x00000d2c                __vector_3
+                0x00000d2c                __vector_23
+                0x00000d2c                __vector_25
+                0x00000d2c                __vector_11
+                0x00000d2c                __vector_13
+                0x00000d2c                __vector_17
+                0x00000d2c                __vector_19
+                0x00000d2c                __vector_7
+                0x00000d2c                __vector_5
+                0x00000d2c                __vector_4
+                0x00000d2c                __vector_9
+                0x00000d2c                __vector_2
+                0x00000d2c                __vector_21
+                0x00000d2c                __vector_15
+                0x00000d2c                __vector_8
+                0x00000d2c                __vector_14
+                0x00000d2c                __vector_10
+                0x00000d2e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.pwmAudio_init
+                0x00000d2e       0x42 IO/PWMAudio.o
+                0x00000d2e                pwmAudio_init
+ .text.__vector_16
+                0x00000d70       0xaa IO/PWMAudio.o
+                0x00000d70                __vector_16
+ .text.__vector_18
+                0x00000e1a       0x5c IO/UART.o
+                0x00000e1a                __vector_18
+ .text.__vector_20
+                0x00000e76       0x7e IO/UART.o
+                0x00000e76                __vector_20
+ .text.sampleBufferOutputFunction
+                0x00000ef4       0x22 main.o
+                0x00000ef4                sampleBufferOutputFunction
+ .text.main     0x00000f16       0x28 main.o
+                0x00000f16                main
+ .text.circularBuffer_create
+                0x00000f3e       0x3a Process/CircularBuffer.o
+                0x00000f3e                circularBuffer_create
+ .text.circularBuffer_isFull
+                0x00000f78        0x6 Process/CircularBuffer.o
+                0x00000f78                circularBuffer_isFull
+ .text.circularBuffer_readByte
+                0x00000f7e       0x48 Process/CircularBuffer.o
+                0x00000f7e                circularBuffer_readByte
+ .text.circularBuffer_writeByte
+                0x00000fc6       0x4e Process/CircularBuffer.o
+                0x00000fc6                circularBuffer_writeByte
+ .text.Output   0x00001014        0xe ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001014                Output
+ .text.Read     0x00001022       0x74 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001022                Read
+ .text.Write    0x00001096       0x70 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001096                Write
+ .text.RenderSample
+                0x00001106      0x17c ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001106                RenderSample
+ .text.AddInflection
+                0x00001282       0x90 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001282                AddInflection
+ .text.Render   0x00001312      0x520 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001312                Render
+ .text.trans    0x00001832       0x62 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001832                trans
+ .text.SetMouthThroat
+                0x00001894      0x172 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00001894                SetMouthThroat
+ .text.SetInput
+                0x00001a06       0x40 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001a06                SetInput
+ .text.Init     0x00001a46       0x5a ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001a46                Init
+ .text.PrepareOutput
+                0x00001aa0       0xae ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001aa0                PrepareOutput
+ .text.CopyStress
+                0x00001b4e       0x64 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001b4e                CopyStress
+ .text.Insert   0x00001bb2       0xa6 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001bb2                Insert
+ .text.InsertBreath
+                0x00001c58       0xb2 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001c58                InsertBreath
+ .text.Parser1  0x00001d0a      0x19a ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001d0a                Parser1
+ .text.SetPhonemeLength
+                0x00001ea4       0x4a ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001ea4                SetPhonemeLength
+ .text.Code41240
+                0x00001eee      0x102 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001eee                Code41240
+ .text.Parser2  0x00001ff0      0x40a ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00001ff0                Parser2
+ .text.AdjustLengths
+                0x000023fa      0x23e ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x000023fa                AdjustLengths
+ .text.SAMMain  0x00002638       0x56 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00002638                SAMMain
+ .text.libgcc.div
+                0x0000268e       0x18 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodqi4.o)
+                0x0000268e                __udivmodqi4
+ .text.libgcc.div
+                0x000026a6       0x26 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                0x000026a6                _div
+                0x000026a6                __divmodhi4
+ .text.libgcc.div
+                0x000026cc       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                0x000026cc                __udivmodhi4
+ .text.avr-libc
+                0x000026f4       0x34 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o)
+                0x000026f4                calloc
+ .text.avr-libc
+                0x00002728      0x25a c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00002728                malloc
+                0x00002852                free
+ .text.avr-libc
+                0x00002982        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00002982                memset
+                0x00002990                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002990        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00002990                _exit
+                0x00002990                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002990        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002994                _etext = .
+
+.data           0x00800100      0x13e load address 0x00002994
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x6 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800100                __malloc_heap_end
+                0x00800102                __malloc_heap_start
+                0x00800104                __malloc_margin
+ *(.data*)
+ .data.freq2data
+                0x00800106       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00800106                freq2data
+ .data.freq1data
+                0x00800156       0x50 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00800156                freq1data
+ .data.throat   0x008001a6        0x1 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x008001a6                throat
+ .data.mouth    0x008001a7        0x1 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x008001a7                mouth
+ .data.pitch    0x008001a8        0x1 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x008001a8                pitch
+ .data.speed    0x008001a9        0x1 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x008001a9                speed
+ *(.rodata)
+ .rodata        0x008001aa       0x4b main.o
+ .rodata        0x008001f5       0x48 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0080023e                . = ALIGN (0x2)
+ *fill*         0x0080023d        0x1 
+                0x0080023e                _edata = .
+                0x0080023e                PROVIDE (__data_end, .)
+
+.bss            0x0080023e      0x65a
+                0x0080023e                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.isTransmitting
+                0x0080023e        0x1 IO/UART.o
+                0x0080023e                isTransmitting
+ .bss.buffer    0x0080023f        0x2 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x0080023f                buffer
+ .bss.mem59     0x00800241        0x1 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00800241                mem59
+ .bss.singmode  0x00800242        0x2 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x00800242                singmode
+ *(COMMON)
+ COMMON         0x00800244        0x9 IO/PWMAudio.o
+                0x00800244                _sampleBuffer
+                0x00800246                sampleRepeatCount
+                0x00800248                _readSample
+                0x00800249                pcm_length
+                0x0080024b                sample
+ COMMON         0x0080024d        0x4 IO/UART.o
+                0x0080024d                outBuffer
+                0x0080024f                inBuffer
+ COMMON         0x00800251        0x2 main.o
+                0x00800251                outputSampleBuffer
+ COMMON         0x00800253      0x182 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                0x00800253                samOutputFunction
+                0x00800255                pitches
+                0x00800285                amplitude1
+                0x008002b5                amplitude3
+                0x008002e5                frequency2
+                0x00800315                amplitude2
+                0x00800345                sampledConsonantFlag
+                0x00800375                frequency1
+                0x008003a5                frequency3
+ COMMON         0x008003d5      0x4bf ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                0x008003d5                mem39
+                0x008003d6                A
+                0x008003d7                mem44
+                0x008003d8                input
+                0x008004d8                Y
+                0x008004d9                mem47
+                0x008004da                stress
+                0x008005da                mem49
+                0x008005db                stressOutput
+                0x00800617                phonemeIndex
+                0x00800717                mem50
+                0x00800718                mem53
+                0x00800719                phonemeLength
+                0x00800819                phonemeIndexOutput
+                0x00800855                mem56
+                0x00800856                phonemeLengthOutput
+                0x00800892                mem51
+                0x00800893                X
+ COMMON         0x00800894        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+                0x00800894                __brkval
+                0x00800896                __flp
+                0x00800898                PROVIDE (__bss_end, .)
+                0x00002994                __data_load_start = LOADADDR (.data)
+                0x00002ad2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800898        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800898                _end = .
+                0x00800898                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 IO/PWMAudio.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 IO/UART.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x31 Process/CircularBuffer.o
+ .comment       0x00000030       0x31 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .comment       0x00000030       0x31 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(calloc.o)
+ .comment       0x00000030       0x31 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(malloc.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 IO/PWMAudio.o
+ .debug_aranges
+                0x00000028       0x40 IO/UART.o
+ .debug_aranges
+                0x00000068       0x28 main.o
+ .debug_aranges
+                0x00000090       0x48 Process/CircularBuffer.o
+ .debug_aranges
+                0x000000d8       0x58 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_aranges
+                0x00000130       0xb8 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x2a7a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x1db IO/PWMAudio.o
+ .debug_info    0x000007cf      0x41e IO/UART.o
+ .debug_info    0x00000bed      0x274 main.o
+ .debug_info    0x00000e61      0x310 Process/CircularBuffer.o
+ .debug_info    0x00001171      0xbdf ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_info    0x00001d50      0xd2a ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_abbrev   0x00000000     0x10b2
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x107 IO/PWMAudio.o
+ .debug_abbrev  0x000006a9      0x1c5 IO/UART.o
+ .debug_abbrev  0x0000086e      0x161 main.o
+ .debug_abbrev  0x000009cf      0x1a0 Process/CircularBuffer.o
+ .debug_abbrev  0x00000b6f      0x2a0 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_abbrev  0x00000e0f      0x2a3 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_line     0x00000000     0x2480
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x33a IO/PWMAudio.o
+ .debug_line    0x0000046d      0x42a IO/UART.o
+ .debug_line    0x00000897      0x36b main.o
+ .debug_line    0x00000c02      0x284 Process/CircularBuffer.o
+ .debug_line    0x00000e86      0x8fa ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_line    0x00001780      0xd00 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_frame    0x00000000      0x638
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x7c IO/PWMAudio.o
+ .debug_frame   0x0000007c      0x130 IO/UART.o
+ .debug_frame   0x000001ac       0x3c main.o
+ .debug_frame   0x000001e8       0x94 Process/CircularBuffer.o
+ .debug_frame   0x0000027c      0x138 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_frame   0x000003b4      0x284 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_str      0x00000000     0x97d3
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208     0x7e64 IO/PWMAudio.o
+                               0x7f4e (size before relaxing)
+ .debug_str     0x0000806c      0x859 IO/UART.o
+                               0x7553 (size before relaxing)
+ .debug_str     0x000088c5      0x66f main.o
+                               0x88f8 (size before relaxing)
+ .debug_str     0x00008f34      0x1f4 Process/CircularBuffer.o
+                               0x378b (size before relaxing)
+ .debug_str     0x00009128      0x47e ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+                                0x543 (size before relaxing)
+ .debug_str     0x000095a6      0x22d ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+                                0x4d4 (size before relaxing)
+
+.debug_loc      0x00000000     0x2459
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x11e IO/PWMAudio.o
+ .debug_loc     0x0000011e      0x392 IO/UART.o
+ .debug_loc     0x000004b0       0x4e main.o
+ .debug_loc     0x000004fe      0x1ce Process/CircularBuffer.o
+ .debug_loc     0x000006cc      0xb81 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_loc     0x0000124d     0x120c ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1e0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x18 IO/PWMAudio.o
+ .debug_ranges  0x00000018       0x30 IO/UART.o
+ .debug_ranges  0x00000048       0x18 main.o
+ .debug_ranges  0x00000060       0x38 Process/CircularBuffer.o
+ .debug_ranges  0x00000098       0x48 ../../Dependencies/SAM/Debug\libSAM.a(render.o)
+ .debug_ranges  0x000000e0      0x100 ../../Dependencies/SAM/Debug\libSAM.a(sam.o)
+
+.debug_macro    0x00000000      0xa6b
+ *(.debug_macro)
+ .debug_macro   0x00000000       0xca IO/PWMAudio.o
+ .debug_macro   0x000000ca       0x69 IO/PWMAudio.o
+ .debug_macro   0x00000133       0xeb IO/UART.o
+ .debug_macro   0x0000021e       0x58 IO/UART.o
+ .debug_macro   0x00000276       0x10 IO/UART.o
+ .debug_macro   0x00000286       0xf2 IO/UART.o
+ .debug_macro   0x00000378       0xef IO/UART.o
+ .debug_macro   0x00000467       0x1c IO/UART.o
+ .debug_macro   0x00000483       0x2e IO/UART.o
+ .debug_macro   0x000004b1      0x130 main.o
+ .debug_macro   0x000005e1      0x166 main.o
+ .debug_macro   0x00000747       0x12 main.o
+ .debug_macro   0x00000759       0xe8 main.o
+ .debug_macro   0x00000841       0x68 main.o
+ .debug_macro   0x000008a9       0x4e Process/CircularBuffer.o
+ .debug_macro   0x000008f7      0x10e Process/CircularBuffer.o
+ .debug_macro   0x00000a05       0x66 Process/CircularBuffer.o
+OUTPUT(AVRPhrases.elf elf32-avr)
+LOAD linker stubs

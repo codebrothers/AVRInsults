@@ -16,10 +16,14 @@
 #define F_CPU 8000000UL
 #endif /* F_CPU */
 
-#define BAUD 38400
+#define BAUD 9600
 #define BAUD_PRESCALE (((F_CPU / (BAUD * 16UL))) - 1)
 
-void initStdInOutUart();	// Maps the C-library standard Input/Output streams to the AVR's UART, currently 'wait' and not interupt-based.
+void uart_init();	// Maps the C-library standard Input/Output streams to the AVR's UART, currently 'wait' and not interupt-based.
+
+void uart_putchar(char c, FILE *stream);
+char uart_getchar(FILE *stream);
+
 
 #endif /* UART_H_ */
 

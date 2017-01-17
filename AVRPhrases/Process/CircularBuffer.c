@@ -25,6 +25,11 @@
 	return (buffer->writeOffset == buffer->readOffset) && !(buffer->isFull);
  }
 
+ inline bool circularBuffer_isFull( CircularBuffer* buffer )
+ {
+	return buffer->isFull;
+ }
+
  bool circularBuffer_readByte( CircularBuffer* buffer, uint8_t* byteOut )
  {
 	if( circularBuffer_isEmpty( buffer ) ) return false;

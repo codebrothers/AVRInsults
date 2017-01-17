@@ -11,13 +11,16 @@
 */
 
 #include "PWMAudio.h"
+#include "../Process/CircularBuffer.h"
 
 #include <stdint.h>
 #include <avr/io.h>
 #include <avr/pgmspace.h>
 #include <avr/interrupt.h>
 #include <avr/sfr_defs.h>
+
 #define SAMPLE_RATE 8000;
+#define SAMPLE_REPEAT 4;
 
 volatile uint16_t sample;
 int sampleRepeatCount;
@@ -27,7 +30,7 @@ CircularBuffer *_sampleBuffer;
 uint8_t _readSample;
 
 /* initialise the PWM */
-void initPwmAudio( CircularBuffer *sampleBuffer )
+void pwmAudio_init( CircularBuffer *sampleBuffer )
 {
 	_sampleBuffer = sampleBuffer;
 
@@ -49,17 +52,17 @@ void initPwmAudio( CircularBuffer *sampleBuffer )
     TCNT0=0;
     TIMSK0|=_BV(TOIE0);
 
-    sampleRepeatCount = 4;
+    sampleRepeatCount = SAMPLE_REPEAT;
 
     sei(); //Enable interrupts
 }
 
-ISR(TIMER0_OVF_vect)
+ISR(TIMER0_OVF_vect) // Callback when we are ready for the next sample
 {
 	sampleRepeatCount--;
 	if (sampleRepeatCount == 0)
 	{
-		sampleRepeatCount = 4;
+		sampleRepeatCount = SAMPLE_REPEAT;
 		bool success = circularBuffer_readByte(_sampleBuffer, &_readSample);
 		OCR1A = success ? _readSample : 0;
 		if(sample>pcm_length)sample=0;
